@@ -23,7 +23,7 @@ As tarefas a serem realizadas neste trabalho consistem em projetar e implementar
 4. [statesBR](https://github.com/ufrn-golang/lista1/tree/master/statesBR)
 5. [loan_calculator](https://github.com/ufrn-golang/lista1/tree/master/loan_calculator)
 
-A descrição de cada um desses problemas está em seu respectivo diretório, juntamente com exemplos de saídas esperadas para o programa e uma relação dos recursos da linguagem de programação Go necessários à implementação da solução. Cada um desses repositórios possui um código fonte base que poderá ser utilizado como ponto de partida para a implementação das soluções. Dessa forma, o código fonte das soluções implementadas deverá constar nos respectivos diretórios.
+A descrição de cada um desses problemas está em seu respectivo diretório, juntamente com exemplos de saídas esperadas para o programa e uma relação dos recursos da linguagem de programação Go necessários à implementação da solução. Cada um desses diretórios possui um código fonte base que poderá ser utilizado como ponto de partida para a implementação das soluções. Dessa forma, o código fonte das soluções implementadas deverá constar nos respectivos diretórios.
 
 ## Requisitos
 Para que seja possível compilar e executar os testes preparados para este trabalho, é necessário que os seguintes elementos estejam instalados no ambiente de desenvolvimento:
@@ -46,7 +46,7 @@ O sistema de controle de versões [Git](https://git-scm.com) e o serviço de hos
 
 No momento de criação de uma equipe, o GitHub Classroom cria um repositório Git privado acessível unicamente pelos integrantes da equipe e pelo docente, sob a organização [`ufrn-golang`](https://github.com/ufrn-golang). Esse repositório segue a mesma estrutura de diretórios presentes neste repositório, o qual serve de *template*. Todos os arquivos deverão constar no repositório obedecendo **estritamente** a divisão em diretórios, ou seja, os códigos fonte referentes às soluções implementadas deverão estar nos respectivos diretórios de cada problema. A fim de garantir a boa manutenção do repositório, deve-se ainda configurar corretamente o arquivo `.gitignore` para desconsiderar arquivos que não devam ser versionados, a exemplo do arquivo executável gerado a partir da compilação do código fonte.
 
-A implementação das soluções para os problemas propostos neste trabalho deverá ser realizada **até as 11:00 do dia 3 de abril de 2023** no respectivo repositório Git da equipe. Para fins de registro, o endereço do repositório também deverá ser enviado através da opção *Tarefas* na Turma Virtual do SIGAA, devendo **um único membro da equipe** realizar esse envio. Além disso, **não serão aceitos envios por outros meios ou repositórios que não sejam os descritos nesta especificação.**
+A implementação das soluções para os problemas propostos neste trabalho deverá ser realizada **até as 11:00 do dia 3 de abril de 2023** no respectivo repositório Git da equipe. Para fins de registro, o endereço do repositório também deverá ser **obrigatoriamente** enviado através da opção *Tarefas* na Turma Virtual do SIGAA, devendo **um único membro da equipe** realizar esse envio. Além disso, **não serão aceitos envios por outros meios ou repositórios que não sejam os descritos nesta especificação.**
 
 ## Avaliação
 A avaliação de cada uma das soluções para os cinco problemas propostos contabilizará nota de até 2,0 pontos cada, totalizando 10,0 pontos. As soluções implementadas serão avaliadas de acordo com os seguintes critérios: 
