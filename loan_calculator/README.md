@@ -27,6 +27,8 @@ custoEfetivo = (valorParcela * tempoEmprestimo) - valorEmprestimo
 
 O empréstimo é aprovado se o aplicante (1) possui renda maior que o valor mensal da parcela, (2) possui *score* de crédito considerado bom e (3) possui percentual de sua renda a ser comprometido compatível com o limite definido pelo *score* de crédito.
 
+Por questões de modularidade, implemente múltiplas funções correspondendo às informações a serem exibidas pelo programa.
+
 ## Exemplo de Saída
 
 ```bash
