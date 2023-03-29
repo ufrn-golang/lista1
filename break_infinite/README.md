@@ -29,5 +29,6 @@ Fim após 14 iterações.
 ## Conhecimentos Necessários
 
 - Biblioteca padrão de Go
+- Estruturas condicionais
 - Estrutura de repetição (*loop*)
 - Saída formatada
