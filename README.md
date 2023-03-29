@@ -19,9 +19,9 @@ As tarefas a serem realizadas neste trabalho consistem em projetar e implementar
 
 1. [break_infinite](https://github.com/ufrn-golang/lista1/tree/master/break_infinite)
 2. [c2f](https://github.com/ufrn-golang/lista1/tree/master/c2f)
-3. [unique](https://github.com/ufrn-golang/lista1/tree/master/unique)
+3. [loan_calculator](https://github.com/ufrn-golang/lista1/tree/master/loan_calculator)
 4. [statesBR](https://github.com/ufrn-golang/lista1/tree/master/statesBR)
-5. [loan_calculator](https://github.com/ufrn-golang/lista1/tree/master/loan_calculator)
+5. [unique](https://github.com/ufrn-golang/lista1/tree/master/unique)
 
 A descrição de cada um desses problemas está em seu respectivo diretório, juntamente com exemplos de saídas esperadas para o programa e uma relação dos recursos da linguagem de programação Go necessários à implementação da solução. Cada um desses diretórios possui um código fonte base que poderá ser utilizado como ponto de partida para a implementação das soluções. Dessa forma, o código fonte das soluções implementadas deverá constar nos respectivos diretórios.
 
